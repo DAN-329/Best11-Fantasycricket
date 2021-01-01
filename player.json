@@ -1,0 +1,22 @@
+{
+	"Player1":{
+		"scores": [1,2,3,4,5],
+		"role": "bat",
+		"team": "India"
+	},
+	"Player2":{
+		"scores": [1,2,3,4,5],
+		"role": "all",
+		"team": "New Zealand"
+	},
+	"Player3":{
+		"scores": [1,2,3,4,5],
+		"role": "wk",
+		"team": "India"
+	},
+	"Player4":{
+		"scores": [1,2,3,4,5],
+		"role": "bowl",
+		"team": "India"
+	},//and so on
+}
